@@ -1,0 +1,33 @@
+body{
+	background-color: lightblue;
+}
+.orange{
+	width: 650px;
+	height: 150px;
+	background-color: #FF9933;
+}
+.white{
+	width: 650px;
+	height: 150px;
+	background-color: #FFFFFF;
+}
+.green{
+	width: 650px;
+	height: 150px;
+	background-color: #138808;
+}
+.stick{
+	width: 10px;
+	height: 150px;
+	background-color: black;
+}
+img{
+	position: relative;
+	top: .05%;
+	left:38%;
+}
+.main{
+	position: absolute;
+	top: 10%;
+	left: 30%;
+}
